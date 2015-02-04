@@ -1,6 +1,6 @@
 A dumb little test websocket client.
 
- 1. Add as Java project to Eclipse.
+ 1. Import as a Maven project to Eclipse.
  2. `npm install`
  3. `node server-primus`
  4. Right-click `JettyClient.java` and **Run As > Java Application**
